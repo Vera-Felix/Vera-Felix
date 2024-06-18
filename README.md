@@ -1,11 +1,12 @@
-## Seja bem-vindes ao meu GitHub! 👋
+### Sejam bem-vindes ao meu GitHub!👋
 
-### Sobre Mim:🎯
+#### Sobre Mim:🎯
 Estou focada em fazer a transição para a área de análises de dados, buscando aplicar meus conhecimentos para gerar insights valiosos e contribuir para a tomada de decisões estratégicas. Almejo um crescimento contínuo na carreira, visando alcançar estabilidade e satisfação profissional.
 
-#### Minha Jornada no Bootcamp de Python para Dados🚀
+#### Minha Jornada no Bootcamp de Python para Dados:🚀
 Atualmente, estou embarcando em uma nova jornada emocionante no Bootcamp de Python para Dados da Reprograma! Estou aprofundando meus conhecimentos em Python, focando em suas aplicações para análise e ciência de dados. Este bootcamp está me proporcionando uma base sólida e prática, preparando-me para enfrentar desafios reais no mundo dos dados.
 
+#### Estatísticas:📊
 &nbsp;&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -16,7 +17,7 @@ Atualmente, estou embarcando em uma nova jornada emocionante no Bootcamp de Pyth
  &nbsp;
  &nbsp;
  
-#### Habilidades Técnicas 💻
+#### Habilidades Técnicas:💻
 * Estou estudando:
   
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -27,5 +28,7 @@ Atualmente, estou embarcando em uma nova jornada emocionante no Bootcamp de Pyth
 
 * Interesses: Ciência de Dados, Análise de Dados e Machine Learning
 
-#### Contato
-  <a href="https://www.linkedin.com/in/vera-felix-37644b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+#### Contato:☎️
+<a href="https://www.linkedin.com/in/vera-felix-37644b5/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
