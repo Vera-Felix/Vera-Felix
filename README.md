@@ -7,15 +7,7 @@ Estou focada em fazer a transição para a área de análises de dados, buscando
 Atualmente, estou embarcando em uma nova jornada emocionante no Bootcamp de Python para Dados da Reprograma! Estou aprofundando meus conhecimentos em Python, focando em suas aplicações para análise e ciência de dados. Este bootcamp está me proporcionando uma base sólida e prática, preparando-me para enfrentar desafios reais no mundo dos dados.
 
 #### Estatísticas:📊
-&nbsp;&nbsp;&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=vera-felix&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=vera-felix&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+![Vera GitHub stats](https://github-readme-stats.vercel.app/api?username=vera-felix&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)
  
 #### Habilidades Técnicas:💻
 * Estudando:
