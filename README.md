@@ -3,11 +3,8 @@
 #### Sobre Mim:🎯
 Estou focada em fazer a transição para a área de análises de dados, buscando aplicar meus conhecimentos para gerar insights valiosos e contribuir para a tomada de decisões estratégicas. Almejo um crescimento contínuo na carreira, visando alcançar estabilidade e satisfação profissional.
 
-#### Minha Jornada no Bootcamp de Python para Dados:🚀
-Atualmente, estou embarcando em uma nova jornada emocionante no Bootcamp de Python para Dados da Reprograma! Estou aprofundando meus conhecimentos em Python, focando em suas aplicações para análise e ciência de dados. Este bootcamp está me proporcionando uma base sólida e prática, preparando-me para enfrentar desafios reais no mundo dos dados.
-
 #### Estatísticas:📊
-![Vera GitHub stats](https://github-readme-stats.vercel.app/api?username=vera-felix&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vera-felix&hide_progress=true)
+![Vera GitHub stats](https://github-readme-stats.vercel.app/api?username=vera-felix&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)&nbsp;
  
 #### Habilidades Técnicas:💻
 * Estudando:
