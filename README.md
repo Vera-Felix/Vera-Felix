@@ -3,8 +3,11 @@
 #### Sobre Mim:🎯
 Estou focada em fazer a transição para a área de análises de dados, buscando aplicar meus conhecimentos para gerar insights valiosos e contribuir para a tomada de decisões estratégicas. Almejo um crescimento contínuo na carreira, visando alcançar estabilidade e satisfação profissional.
 
-#### Estatísticas:📊
-![Vera GitHub stats](https://github-readme-stats.vercel.app/api?username=vera-felix&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)&nbsp;
+<div>
+ <a href="https://www.linkedin.com/in/vera-felix-37644b5/" target="_blank">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=vera-felix" />
+<img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vera-felix&layout=compact&langs_count=8&card_width=320" />
+</div>
  
 #### Habilidades Técnicas:💻
 * Estudando:
@@ -15,5 +18,5 @@ Estou focada em fazer a transição para a área de análises de dados, buscando
 
 #### Contato:☎️
 <a href="https://www.linkedin.com/in/vera-felix-37644b5/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
