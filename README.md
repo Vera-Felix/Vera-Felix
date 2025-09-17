@@ -14,17 +14,22 @@ Busco aplicar meus conhecimentos para gerar **insights valiosos**, apoiar a **to
 
 ## 📊 Minhas Estatísticas  
 
-<!-- Estatísticas principais -->
+<!-- Cards principais sempre visíveis -->
 ![Vera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vera-Felix&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default)
 
-<!-- Linguagens mais usadas -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vera-Felix&layout=compact&langs_count=10&exclude_repo=Colab-Notebooks&theme=default)
 
-<!-- Streak (dias de contribuição) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vera-Felix&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=default)](https://git.io/streak-stats)
+<!-- Cards extras ficam escondidos -->
+<details>
+  <summary>🔎 Ver estatísticas detalhadas</summary>
+  <br>
 
-<!-- Summary Cards -->
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vera-Felix&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  <!-- Streak (dias de contribuição) -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Vera-Felix&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=default)](https://git.io/streak-stats)
+
+  <!-- Summary Cards -->
+  [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vera-Felix&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</details>
 
 ---
 
